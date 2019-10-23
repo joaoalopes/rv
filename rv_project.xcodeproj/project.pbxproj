@@ -15,6 +15,7 @@
 		925452BF2360AA9D001DF890 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 925452BD2360AA9D001DF890 /* LaunchScreen.storyboard */; };
 		925452CA2360AA9D001DF890 /* rv_projectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 925452C92360AA9D001DF890 /* rv_projectTests.swift */; };
 		925452D52360AA9D001DF890 /* rv_projectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 925452D42360AA9D001DF890 /* rv_projectUITests.swift */; };
+		9254531F2360B41F001DF890 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9254531E2360B41F001DF890 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		925452D02360AA9D001DF890 /* rv_projectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rv_projectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		925452D42360AA9D001DF890 /* rv_projectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rv_projectUITests.swift; sourceTree = "<group>"; };
 		925452D62360AA9D001DF890 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9254531E2360B41F001DF890 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				925452B62360AA9B001DF890 /* Experience.rcproject */,
 				925452B82360AA9D001DF890 /* Assets.xcassets */,
 				925452BD2360AA9D001DF890 /* LaunchScreen.storyboard */,
+				9254531E2360B41F001DF890 /* SwiftUIView.swift */,
 				925452C02360AA9D001DF890 /* Info.plist */,
 				925452BA2360AA9D001DF890 /* Preview Content */,
 			);
@@ -269,6 +272,7 @@
 			files = (
 				925452B52360AA9B001DF890 /* ContentView.swift in Sources */,
 				925452B32360AA9B001DF890 /* AppDelegate.swift in Sources */,
+				9254531F2360B41F001DF890 /* SwiftUIView.swift in Sources */,
 				925452B72360AA9B001DF890 /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
